@@ -9,7 +9,7 @@
 <h2>Welcome to Tree.</h2>
 <p>Here, you can upload files from one device and access them from the next, at any time 24/7. It's that simple.</p>
 <div>
-  Try it here.
+  <a href=https://goo.gl/ixisdZ><h1>Try it here.</h1></a>
 </div>
 
 <h1>Welcome to Tree</h1>
