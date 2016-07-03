@@ -42,5 +42,17 @@
 
 
 
+<script src="https://www.gstatic.com/firebasejs/3.1.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyAuquPgEo1k41lfrBBi8BhYOjDrpuq_6Kg",
+    authDomain: "pixel-tree.firebaseapp.com",
+    databaseURL: "https://pixel-tree.firebaseio.com",
+    storageBucket: "pixel-tree.appspot.com",
+  };
+  firebase.initializeApp(config);
+</script>
+    
 </body>
 </html>
